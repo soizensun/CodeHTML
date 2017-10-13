@@ -1,0 +1,29 @@
+
+ul{
+  font-family: 'Oswald', sans-serif;
+}
+a {
+  /*margin: 5px;*/
+  /*margin is control out of block*/
+  padding: 3px;
+  /*padding is control inside of block*/
+  border-radius: 2px;
+  color: white;
+  background-color: gray;
+  text-decoration: none;
+  /*no underline in link*/
+  transition: 0.5s ease;
+  /*has a hover in 0.5s */
+  border: solid 0.75px;
+}
+a:hover{
+  color: gray;
+  background-color: white;
+  text-decoration: none;
+}
+
+li{
+  margin: 10px;
+  list-style-type: none;
+  /*no style type*/
+}
