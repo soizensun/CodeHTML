@@ -1,0 +1,21 @@
+.klong{
+	border: solid 2px red;
+	width: 60%;
+	margin: auto;
+	margin-top: 100px;
+	padding: 25px;
+	border-radius: 5px;
+	box-shadow: 10px 10px pink;
+
+}
+.botton{
+	border: solid 1px ;
+	margin: auto;
+	padding: 25px;
+	border-radius: 5px;
+	box-shadow: 2px 2px gray;
+	text-align: center;
+}
+.botton:hover{
+	box-shadow: -2px -2px gray;
+}

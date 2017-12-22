@@ -1,0 +1,22 @@
+.klong{
+	border: solid 2px red;
+	box-shadow: 3px 3px pink;
+	margin: 10px;
+	float: left;
+	padding: 5px;
+	box-sizing: border-box;
+}
+
+span{
+	color: red;
+}
+/*.tard{
+	width: 50%;
+	float: left;
+	}*/
+@media (min-width: 400px){
+	.tard{
+	width: 50%;
+	float: left;
+	}
+}
